@@ -16,6 +16,6 @@ Dashboard Features & Insights:-
 - Power BI  
 - Microsoft Excel / CSV 
 - DAX Measures
-- Power query
+  
 
   <img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/06a7b95c-f5f0-4210-83ab-de92868f5138" />Power Query 
